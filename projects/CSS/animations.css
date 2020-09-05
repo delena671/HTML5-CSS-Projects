@@ -30,7 +30,7 @@
     transition-timing-function: ease-in-out;
 }
 
-.menu li:hover {
+.menu ul:hover {
     color: #f00;
     background-color: rgba(100,65,0,.3);
 }
@@ -99,7 +99,7 @@
 
 .photo img {
     transition: transform .5s;
-    transfrom-origin: 50% 50%;
+    transform-origin: 50% 50%;
 }
 
 .photo:hover img {
