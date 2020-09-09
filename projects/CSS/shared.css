@@ -288,12 +288,16 @@ section {
     cursor: pointer;
     font-family: 'Raleway', sans-serif;
     font-weight: 600;
+    position: relative;
+    display: inline;
+    float: right;
 }
 
 .terms:hover {
     color: orange;
     text-decoration: underline;
 }
+
 
 .submit input[type="submit"] {
     color: rgb(225,225,225);

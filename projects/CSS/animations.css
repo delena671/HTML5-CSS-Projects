@@ -75,7 +75,7 @@
     padding-right: 20px;
     justify-content: cente; /*For centering text inside .photo-overlay*/
     align-items: center;
-    background: rgba(0,0,0,0.5));
+    background: rgba(0,0,0,0.5);
 }
 
 .white-head {
@@ -106,3 +106,6 @@
     transform-scale(1.1);
 }
 
+li a:hover:not(.active) {
+    background-color: ivory;
+}
