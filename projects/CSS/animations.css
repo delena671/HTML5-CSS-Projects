@@ -30,7 +30,7 @@
     transition-timing-function: ease-in-out;
 }
 
-.menu ul:hover {
+.menu li:hover {
     color: #f00;
     background-color: rgba(100,65,0,.3);
 }
